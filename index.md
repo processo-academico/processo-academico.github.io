@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Processo Acadêmico
+# Histórico
 
 O PAS (Processo Acadêmico Simplificado) foi elaborado com o propósito de ser utilizado em práticas acadêmicas de desenvolvimento de software.
 
